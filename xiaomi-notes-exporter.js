@@ -1,7 +1,7 @@
 /**
  * 🚀 XIAOMI NOTES ULTIMATE EXPORTER (GEEK EDITION)
  * ------------------------------------------------
- * @version 3.0.0
+ * @version 代码版本持续优化中
  * @author Gemini Assistant
  * @features ConsoleUI, DarkMode, Search, Glassmorphism, SafeStop
  */
@@ -35,7 +35,7 @@
 ██  ██  ██ ██ ██      ██  ██ ██ ██    ██    ██         ██ 
 ██      ██ ██ ██      ██   ████  ██████     ██    ███████ 
             `, "color: #FF6900; font-weight: bold;");
-            console.log(`%c :: GEEK EDITION :: %c v3.0 Ready `, "background:#333;color:#fff;border-radius:3px;", "color:#888");
+            console.log(`%c :: GEEK EDITION :: %c 代码版本持续优化中 `, "background:#333;color:#fff;border-radius:3px;", "color:#888");
         },
         log: (msg, type = 'info') => {
             const colors = { info: '#00B0FF', success: '#00E676', warn: '#FFEA00', error: '#FF1744' };

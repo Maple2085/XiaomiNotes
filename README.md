@@ -3,7 +3,7 @@
 > 你的笔记，由你掌控。一键导出小米云笔记，生成现代化、本地离线的极美 HTML 归档。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/Version-3.0.0-blue.svg)]()
+[![代码版本持续优化中](https://img.shields.io/badge/%E4%BB%A3%E7%A0%81%E7%89%88%E6%9C%AC-%E6%8C%81%E7%BB%AD%E4%BC%98%E5%8C%96%E4%B8%AD-blue.svg)]()
 
 📱 **【零代码一键迁移】** 换机党（小米迁移至华为/苹果/OPPO/vivo）、备份党、整理党的终极终结者方案。
 
